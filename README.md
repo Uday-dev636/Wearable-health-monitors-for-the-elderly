@@ -61,18 +61,18 @@ Data Flow:
 
 ESP32 → WiFi → ESP8266 → Web Dashboard → User Device  
 
-- System Architecture: [ docs/working.md ]
+- System Architecture: [docs/working.md]
 
 
 ## Working
 
 - Sensors collect real-time data  
 - ESP32 processes and checks conditions  
-- Emergency triggers if abnormal condition is detected  
+- Emergency triggers if an abnormal condition is detected  
 - Buzzer alert is activated  
 - Data is sent to ESP8266 via WiFi  
 - ESP8266 updates the dashboard  
-- User monitors through browser  
+- User monitors through the browser  
 
 Detailed working: [docs/detailworking.md]
 
