@@ -61,7 +61,7 @@ Data Flow:
 
 ESP32 → WiFi → ESP8266 → Web Dashboard → User Device  
 
-- System Architecture: [docs/working.md]
+- System Architecture: [ docs/working.md ]
 
 
 ## Working
