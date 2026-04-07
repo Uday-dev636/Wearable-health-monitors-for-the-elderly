@@ -61,7 +61,7 @@ Data Flow:
 
 ESP32 → WiFi → ESP8266 → Web Dashboard → User Device  
 
-- System Architecture: [docs/working.md]
+
 
 
 ## Working
@@ -74,7 +74,7 @@ ESP32 → WiFi → ESP8266 → Web Dashboard → User Device
 - ESP8266 updates the dashboard  
 - User monitors through the browser  
 
-Detailed working: [docs/detailworking.md]
+Detailed working: [Detailed Working](docs/detailworking.md)
 
 
 
@@ -103,8 +103,7 @@ The dashboard displays:
 
 ## Hardware Connections
 
-Detailed pin connections:  
-[docs/connections.md](docs/connections.md)
+Detailed pin connections:  [Working](docs/working.md)
 
 
 
