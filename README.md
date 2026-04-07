@@ -74,7 +74,7 @@ ESP32 → WiFi → ESP8266 → Web Dashboard → User Device
 - ESP8266 updates the dashboard  
 - User monitors through browser  
 
-Detailed working: [docs/working.md](docs/working.md)
+Detailed working: [docs/detailworking.md]
 
 
 
