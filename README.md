@@ -106,10 +106,10 @@ The dashboard displays:
 Detailed pin connections:  [Working](docs/working.md)
 
 
+## CODE 
+ESP32 MAIN BOARD CODE :[ESP32 Code](code/esp32code.c)
 
-## Project Preview
-
-
+ESP8266 DASHBOARD WEDSEVERE CODE : [ESP8266 Dashboard Code](code/esp8266codebashboard.c)
 
 
 
