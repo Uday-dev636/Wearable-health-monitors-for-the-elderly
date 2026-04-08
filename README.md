@@ -154,7 +154,4 @@ Detailed pin connections:  [Working](docs/working.md)
 
 ---
 
-## Author
 
-Uday Kumar  
-Electronics and Communication Engineering Student
